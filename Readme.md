@@ -70,6 +70,12 @@ Este índice será atualizado à medida que novas disciplinas forem concluídas 
 Algumas disciplinas podem não ter repositórios dedicados, dependendo do tipo de trabalho realizado.
 
 ---
+```bash
+git clone --recurse-submodules https://github.com/jhvlima/UFES.git
+
+git submodule update --init --recursive
+```
+
 
 # Script para criar a estrutura de diretórios e adicionar submódulos
 ```bash
