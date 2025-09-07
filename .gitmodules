@@ -31,3 +31,9 @@
 [submodule "periodo-3/ED"]
 	path = periodo-3/ED
 	url = https://github.com/jhvlima/ED.git
+[submodule "periodo-1/Prog1"]
+	path = periodo-1/Prog1
+	url = https://github.com/jhvlima/prog1.git
+[submodule "periodo-3/AOC"]
+	path = periodo-3/AOC
+	url = https://github.com/jhvlima/ArqComp.git
