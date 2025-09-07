@@ -1,0 +1,33 @@
+[submodule "periodo-5/Redes"]
+	path = periodo-5/Redes
+	url = https://github.com/jhvlima/Redes.git
+[submodule "periodo-5/PI1"]
+	path = periodo-5/PI1
+	url = https://github.com/jhvlima/PI.git
+[submodule "periodo-5/ES1"]
+	path = periodo-5/ES1
+	url = https://github.com/jhvlima/EngSoft.git
+[submodule "periodo-5/ALGNUM"]
+	path = periodo-5/ALGNUM
+	url = https://github.com/jhvlima/AlgNum.git
+[submodule "periodo-4/TBO"]
+	path = periodo-4/TBO
+	url = https://github.com/jhvlima/TBO.git
+[submodule "periodo-4/POO"]
+	path = periodo-4/POO
+	url = https://github.com/jhvlima/POO.git
+[submodule "periodo-4/Grafos"]
+	path = periodo-4/Grafos
+	url = https://github.com/jhvlima/Grafos.git
+[submodule "periodo-4/SO"]
+	path = periodo-4/SO
+	url = https://github.com/jhvlima/SO.git
+[submodule "periodo-2/ELD"]
+	path = periodo-2/ELD
+	url = https://github.com/jhvlima/ELD.git
+[submodule "periodo-2/Prog2"]
+	path = periodo-2/Prog2
+	url = https://github.com/jhvlima/prog2.git
+[submodule "periodo-3/ED"]
+	path = periodo-3/ED
+	url = https://github.com/jhvlima/ED.git
