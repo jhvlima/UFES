@@ -9,75 +9,86 @@ O objetivo é manter um registo organizado da minha jornada academica, utilizand
 ## 📚 Índice de Disciplinas por Período  
 
 ### 1º Período
-- [PROG1](https://github.com/jhvlima/prog1)
-- ATC  
-- ICC  
-- CALC1  
+
+- [PROG1 - Programação de computadores I](https://github.com/jhvlima/prog1)
+- ATC - Aspectos Teoricos da Computação  
+- ICC - Introdução à Ciência da Computação
+- CALC1 - Cálculo I
 
 ### 2º Período
-- [PROG2](https://github.com/jhvlima/prog2)
-- LOG1  
-- [ELD](https://github.com/jhvlima/ELD)
-- CALC2  
+
+- [PROG2 - Programação de computadores II](https://github.com/jhvlima/prog2)
+- LOG1 - Lógica para Computação I
+- [ELD - Elementos de Lógica Digital](https://github.com/jhvlima/ELD)
+- CALC2 - Cálculo II
 
 ### 3º Período
-- [ED](https://github.com/jhvlima/ED)
-- [AOC](https://github.com/jhvlima/ArqComp)
-- ALGLIN  
-- CALC4  
-- PROB  
+
+- [ED - Estrutura de Dados](https://github.com/jhvlima/ED)
+- [AOC - Arquitetura e Organização de Computadores](https://github.com/jhvlima/ArqComp)
+- ALGLIN - Álgebra Linear
+- CALC4 - Cálculo IV
+- PROB - Probabilidade e Estatística
 
 ### 4º Período
-- [TBO](https://github.com/jhvlima/TBO)
-- [POO](https://github.com/jhvlima/POO)
-- [Grafos](https://github.com/jhvlima/Grafos)
-- LFA  
-- [SO](https://github.com/jhvlima/SO)
+
+- [TBO - Técnicas de Busca e Ordenação](https://github.com/jhvlima/TBO)
+- [POO - Programação Orientada a Objetos](https://github.com/jhvlima/POO)
+- [Grafos - Teoria de Grafos](https://github.com/jhvlima/Grafos)
+- LFA - Linguagens Formais e Autômatos
+- [SO - Sistemas Operacionais](https://github.com/jhvlima/SO)
 
 ### 5º Período
-- [PI1](https://github.com/jhvlima/PI)
-- [ES1](https://github.com/jhvlima/EngSoft)
-- LOG2  
-- [Redes](https://github.com/jhvlima/Redes)
-- [AlgNum](https://github.com/jhvlima/AlgNum)
+
+- [PI1 - Projeto Integrado I](https://github.com/jhvlima/PI)
+- [ES1 - Engenharia de Software](https://github.com/jhvlima/EngSoft)
+- LOG2 - Lógica para Computação II
+- [Redes - Redes de Computadores](https://github.com/jhvlima/Redes)
+- [AlgNum - Algoritmos Numéricos](https://github.com/jhvlima/AlgNum)
 
 ### 6º Período
-- PAP  
-- COMPSOC  
-- ES2  
-- TOC  
+
+- [PaP - Paradigmas de Programação](https://github.com/jhvlima/PaP)
+- COMPSOC - Computação e Sociedade
+- ES2 - Engenharia de Software II
+- TOC - Teoria da Computação
 
 ### 7º Período
-- CC  
-- BD1  
-- PAA  
-- IA  
+
+- CC - Compiladores
+- BD1 - Banco de Dados I
+- PAA - Projeto e Análise de Algoritmos
+- IA - Inteligência Artificial
 
 ### 8º Período
-- MP  
+
+- MP - Métodos de Pesquisa
 
 ### 9º Período
-- TCC1  
-- ESTSUP  
+
+- TCC1 - Trabalho de Conclusão de Curso I
+- ESTSUP - Estágio Supervisionado
 
 ### 10º Período
-- TCC2  
+
+- TCC2 - Trabalho de Conclusão de Curso II
 
 ---
 
 ## 🔄 Observação
+
 Este índice será atualizado à medida que novas disciplinas forem concluídas e adicionadas como submódulos.
 Algumas disciplinas podem não ter repositórios dedicados, dependendo do tipo de trabalho realizado.
 
 ---
+
 ```bash
 git clone --recurse-submodules https://github.com/jhvlima/UFES.git
-
 git submodule update --init --recursive
 ```
 
-
 # Script para criar a estrutura de diretórios e adicionar submódulos
+
 ```bash
 # Comando para criar a estrutura completa de diretórios para Ciência da Computação (UFES)
 # usando as abreviações da matriz curricular em letras maiúsculas.
@@ -138,7 +149,7 @@ git submodule add https://github.com/jhvlima/Redes.git periodo-5/REDES
 git submodule add https://github.com/jhvlima/AlgNum.git periodo-5/ALGNUM
 
 # --- Período 6 ---
-git submodule add https://github.com/jhvlima/PAP.git periodo-6/PAP
+git submodule add https://github.com/jhvlima/PaP.git periodo-6/PaP
 git submodule add https://github.com/jhvlima/COMPSOC.git periodo-6/COMPSOC
 git submodule add https://github.com/jhvlima/ES2.git periodo-6/ES2
 git submodule add https://github.com/jhvlima/TOC.git periodo-6/TOC
