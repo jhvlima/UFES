@@ -40,3 +40,6 @@
 [submodule "periodo-6/PaP"]
 	path = periodo-6/PaP
 	url = https://github.com/jhvlima/PaP.git
+[submodule "periodo-7/CC"]
+	path = periodo-7/CC
+	url = https://github.com/jhvlima/CC.git
