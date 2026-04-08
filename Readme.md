@@ -55,10 +55,10 @@ O objetivo é manter um registo organizado da minha jornada academica, utilizand
 
 ### 7º Período
 
-- CC - Compiladores
-- BD1 - Banco de Dados I
+- [CC - Compiladores](https://github.com/jhvlima/CC)
+- [BD1 - Banco de Dados I](https://github.com/jhvlima/BD1)
 - PAA - Projeto e Análise de Algoritmos
-- IA - Inteligência Artificial
+- [IA - Inteligência Artificial](https://github.com/jhvlima/IA)
 
 ### 8º Período
 

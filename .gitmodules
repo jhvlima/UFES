@@ -43,3 +43,9 @@
 [submodule "periodo-7/CC"]
 	path = periodo-7/CC
 	url = https://github.com/jhvlima/CC.git
+[submodule "periodo-7/BD1"]
+	path = periodo-7/BD1
+	url = https://github.com/jhvlima/BD1.git
+[submodule "periodo-7/IA"]
+	path = periodo-7/IA
+	url = https://github.com/jhvlima/IA.git
