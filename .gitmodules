@@ -49,3 +49,15 @@
 [submodule "periodo-7/IA"]
 	path = periodo-7/IA
 	url = https://github.com/jhvlima/IA.git
+[submodule "periodo-8/CD"]
+	path = periodo-8/CD
+	url = https://github.com/jhvlima/CD.git
+[submodule "periodo-8/MCD"]
+	path = periodo-8/MCD
+	url = https://github.com/jhvlima/MCD.git
+[submodule "periodo-8/MP"]
+	path = periodo-8/MP
+	url = https://github.com/jhvlima/MP.git
+[submodule "periodo-8/CG"]
+	path = periodo-8/CG
+	url = https://github.com/jhvlima/CG.git
