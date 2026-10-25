@@ -94,3 +94,12 @@ Não foi feita clonagem externa nem confirmação de disponibilidade dos novos
 commits no GitHub. Para publicar, envie primeiro os repositórios internos e depois
 as referências no UFES. PaP/Prolog, os dois laboratórios locais de CC e IA/IA
 permanecem locais, fora da clonagem recursiva.
+
+## Ajuste posterior: Cálculo IV
+
+O usuário definiu que os materiais de `periodo-3/Calc4` devem permanecer
+diretamente no UFES. A regra de exclusão foi retirada de `.gitignore`, e os
+sete PDFs foram incluídos em um commit próprio no repositório principal.
+Essa decisão acrescenta um commit aos 43 registrados acima, totalizando 44
+commits locais nesta organização (29 nas disciplinas e 15 no UFES).
+As três exclusões pendentes permanecem sem commit. Não houve publicação.

@@ -27,7 +27,7 @@ O objetivo é manter um registro organizado da minha jornada acadêmica, utiliza
 - [ED - Estrutura de Dados](https://github.com/jhvlima/ED)
 - [AOC - Arquitetura e Organização de Computadores](https://github.com/jhvlima/ArqComp)
 - ALGLIN - Álgebra Linear
-- CALC4 - Cálculo IV
+- [CALC4 - Cálculo IV](periodo-3/Calc4/)
 - PROB - Probabilidade e Estatística
 
 ### 4º Período

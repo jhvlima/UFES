@@ -1,7 +1,11 @@
 # Organização Git do UFES
 
 O UFES guarda o índice por período, a bibliografia e os materiais sem repositório
-próprio. Cada disciplina cadastrada em `.gitmodules` mantém seus próprios commits.
+próprio. Disciplinas com bastante conteúdo podem ter repositório próprio; as
+menores ficam diretamente no UFES. A decisão considera a organização da
+disciplina, e não apenas o tamanho dos arquivos. Cálculo IV foi mantido
+diretamente em `periodo-3/Calc4` por decisão do usuário. Cada disciplina
+cadastrada em `.gitmodules` mantém seus próprios commits.
 Os diretórios atuais foram preservados; o período da pasta reflete a organização
 local e não necessariamente a posição da disciplina na matriz curricular.
 
@@ -16,8 +20,9 @@ local e não necessariamente a posição da disciplina na matriz curricular.
 ## Arquivos locais
 
 Ambientes Python, caches, executáveis e estado do Obsidian não são versionados.
-Os PDFs de consulta em `periodo-3/Calc4`, o arquivo `POO/java.zip` e o livro
-adicional em PaP permanecem locais e ignorados. Materiais já presentes no histórico
+O arquivo `POO/java.zip` e o livro adicional em PaP permanecem locais e
+ignorados. Os PDFs de Cálculo IV são versionados diretamente no UFES.
+Materiais já presentes no histórico
 não foram removidos retroativamente.
 
 Os seguintes repositórios independentes permanecem locais, com seu `.git` e
